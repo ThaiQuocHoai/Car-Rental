@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/hoaitq/order/OrderDAO.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>518</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/SearchOrderServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/AddToCartServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/LogoutServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/UpdateServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/DeleteServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/SearchServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/CarServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/OtpServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/CheckoutServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/CancelServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/ViewOrderServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/LoginServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/FeedbackServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/SignupServlet.java</file>
+            <file>file:/D:/0_Study/CN5/LAB231/Assignment3_ThaiQuocHoai/src/java/hoaitq/servlet/DiscountServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
