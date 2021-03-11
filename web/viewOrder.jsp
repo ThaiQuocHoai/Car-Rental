@@ -163,7 +163,7 @@
 
         <section>
             <form action="searchOrder" method="POST">
-                <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center my-5">
                     <div>
                         <input type="radio" <c:if test="${sessionScope.SELECTORDERSEARCH eq 1}">checked</c:if> name="rdo" value="1" />
                         <input type="text" id="name" name="txtSearch" placeholder="Search name..." value="${sessionScope.SEARCHNAMEORDER}" />
@@ -279,7 +279,7 @@
             <div class="lastsection text-center mt-5">
                 <c:if test="${sessionScope.SENDPAGE > 1}">
                     <c:forEach var="i" begin="1" end="${sessionScope.SENDPAGE}">
-                        <a class="ml-4" href="searchOrder?sindex=${i}" <c:if test="${i eq sessionScope.SINDEX}">style="border: 1px solid green; background-color: green; color: white; text-decoration: none"</c:if>>${i}</a>
+                        <a class="ml-4" href="searchOrder?sindex=${i}" <c:if test="${i eq sessionScope.SINDEX}">style="border: 1px solid green; background-color: green; color: white; text-decoration: none;"</c:if>>${i}</a>
                     </c:forEach>
                 </c:if>
             </div>
